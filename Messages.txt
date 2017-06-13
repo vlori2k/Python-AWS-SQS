@@ -1,0 +1,6 @@
+1. Hi. How are you?
+2. Hello! Im fine, how about you?
+3. Im fine too!
+4. Good to hear!
+5. I need to go, have a nice day!
+6. You too! Bye.
